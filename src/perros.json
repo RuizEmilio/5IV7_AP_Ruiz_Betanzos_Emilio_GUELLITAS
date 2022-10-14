@@ -1,0 +1,381 @@
+[{
+    "name": "LOLITA",
+    "description": "La rescatamos cuando estaba en celo, siendo acosada por muchos perros.Ahora esta castrada,pasando su post operatorio en un hogar provisorio.",
+    "gender": "female",
+    "age": {
+      "number": 14,
+      "type": "años"
+    },
+    "size": "xs",
+    "energy": 4,
+    "contacto": "5523456765",
+    "ubicacion": "https://www.google.com.mx/maps/place/Parque+La+Providencia/@19.2621401,-99.669012,12z/data=!4m13!1m7!3m6!1s0x85cd8bae683c2073:0x94983f4fa1cfaa56!2zTWV0ZXBlYywgTcOpeC4!3b1!8m2!3d19.2528864!4d-99.598551!3m4!1s0x85cd8a4b1d66a9bd:0x1fb0a98dc082060d!8m2!3d19.2701603!4d-99.60804",
+    "pictures": [
+      "https://i.pinimg.com/736x/9a/84/be/9a84beb8cde77a146703258a61d059d6.jpg",
+      "https://live.staticflickr.com/3673/13924990472_ae0fd195e7.jpg"
+    ],
+    "location": {
+      "city": "Metepec",
+      "state": "Edo Mex"
+    },
+    "requests": [],
+    "others": {
+      "vaccinated": false,
+      "special": true,
+      "sterilized": false
+    }
+}
+,
+{
+    "name": "MARA",
+    "description": "Los dueños de esta amiguita la abandonaron en las calles de la delegacion Gustavo A Madero, es una gran compañera si estas en busca de una mascota.",
+    "gender": "hembra",
+    "age": {
+      "number": 15,
+      "type": "meses"
+    },
+    "size": "xs",
+    "energy": 4,
+    "contacto": "5523876765",
+    "ubicacion": "https://www.google.com.mx/maps/place/Secundaria/@19.5058147,-99.1312757,18z/data=!4m13!1m7!3m6!1s0x85cd8bae683c2073:0x94983f4fa1cfaa56!2zTWV0ZXBlYywgTcOpeC4!3b1!8m2!3d19.2528864!4d-99.598551!3m4!1s0x85d1f973c695772f:0x7bff5240c93d1ece!8m2!3d19.5062522!4d-99.1300877",
+    "pictures": [
+      "https://th.bing.com/th/id/R.12e69cbaec07534b07fe7d77640bfce7?rik=ShWppw8XT8ydLg&pid=ImgRaw&r=0",
+      "https://i.pinimg.com/originals/e0/b9/d1/e0b9d193a84d840b1db8590ef53314bd.jpg"
+    ],
+    "location": {
+      "city": "Gustavo A Madero",
+      "state": "CDMX"
+    },
+    "requests": [],
+    "others": {
+      "vaccinated": false,
+      "special": true,
+      "sterilized": false
+    }
+},
+{
+  "name": "ZEUS",
+  "description": "Zeus estaba en una red de peleas callejeras, logramos darle una nueva vida quitandoselo a esa gente mala, es protector y dosil.",
+  "gender": "macho",
+  "age": {
+    "number": 5,
+    "type": "años"
+  },
+  "size": "xs",
+  "energy": 4,
+  "contacto": "5523456022",
+  "ubicacion": "https://www.google.com.mx/maps/place/Caseta+de+cobro+al+parque+de+los+D%C3%ADnamos/@19.2942889,-99.2599275,15z/data=!4m13!1m7!3m6!1s0x85cdff9fd6a04461:0x4c72ca8233c846d4!2sLa+Magdalena+Contreras,+CDMX!3b1!8m2!3d19.3149641!4d-99.2425886!3m4!1s0x85cdff60253c8415:0x597d54ff1775821d!8m2!3d19.287919!4d-99.2632818",
+  "pictures": [
+    "https://th.bing.com/th/id/OIP.3qkdZuqwc6p4iWAyqBbntgHaFi?pid=ImgDet&rs=1",
+    "https://th.bing.com/th/id/OIP.GZTDPtEg1zo-828M7O0m9QAAAA?pid=ImgDet&w=400&h=406&rs=1"
+  ],
+  "location": {
+    "city": "Magdalena Contreras",
+    "state": "CDMX"
+  },
+  "requests": [],
+  "others": {
+    "vaccinated": false,
+    "special": true,
+    "sterilized": false
+  }
+},
+{
+  "name": "TIPPENS",
+  "description": "Llego a mi casa muy mal herido, lo lleve a la veterinaria y se curo. Necesita de mucha atencion, sin embargo es una excelente opcion si quieres cuidar de el.",
+  "gender": "macho",
+  "age": {
+    "number": 2,
+    "type": "años"
+  },
+  "size": "xs",
+  "energy": 4,
+  "contacto": "5523456885",
+  "ubicacion": "https://www.google.com.mx/maps/place/Ex+Convento+de+San+Juan+Bautista/@18.8798115,-98.8683605,15z/data=!4m13!1m7!3m6!1s0x85ce6a0fbd3e2567:0xf9bbbf1a723d9196!2sYecapixtla,+Mor.!3b1!8m2!3d18.8782827!4d-98.8610882!3m4!1s0x85ce6a27142d5f55:0xfbbaad82c46ab51!8m2!3d18.8826253!4d-98.8647848",
+  "pictures": [
+    "http://mascotafiel.com/wp-content/uploads/2014/05/perros-french-poodle.jpg",
+    "http://comoadiestraratuperro.com/wp-content/uploads/2016/02/french-poodle.jpg",
+    "https://s-media-cache-ak0.pinimg.com/originals/9b/d2/40/9bd240e9ff48f42c745bf8de2ee3318c.jpg"
+  ],
+  "mainPicture": "http://comoadiestraratuperro.com/wp-content/uploads/2016/02/french-poodle.jpg",
+  "location": {
+    "city": "Yecapixtla",
+    "state": "Morelos"
+  },
+  "requests": [],
+  "others": {
+    "vaccinated": false,
+    "special": true,
+    "sterilized": false
+  }
+},
+{
+  "name": "CALA",
+  "description": "Estaba siempre en el mismo quiosco en el centro de Coyoacan, decidi alimentarla y la lleve a ADOPTADORA RUIZ, es muy juguetona.",
+  "gender": "hembra",
+  "age": {
+    "number": 1,
+    "type": "año"
+  },
+  "size": "xs",
+  "energy": 4,
+  "contacto": "5511496765",
+  "ubicacion": "https://www.google.com.mx/maps/place/Fuente+de+los+Coyotes/@19.3477376,-99.1647852,17z/data=!4m13!1m7!3m6!1s0x85ce002e11342fc3:0x9a2667d831d4e080!2sCoyoac%C3%A1n,+Ciudad+de+M%C3%A9xico,+CDMX!3b1!8m2!3d19.3437444!4d-99.1561883!3m4!1s0x85d1ffdcb59417eb:0x6c892f0f32007df7!8m2!3d19.3491587!4d-99.1634804",
+  "pictures": [
+    "https://th.bing.com/th/id/OIP.ayAmwV0sx7bGRTEYuHWOuAHaE8?pid=ImgDet&rs=1",
+    "https://th.bing.com/th/id/OIP.Qm8eadGqY_rM8Dw4TcMj0wHaE8?pid=ImgDet&w=600&h=400&rs=1"
+  ],
+  "location": {
+    "city": "Coyoacan",
+    "state": "CDMX"
+  },
+  "requests": [],
+  "others": {
+    "vaccinated": false,
+    "special": true,
+    "sterilized": false
+  }
+},
+{
+  "name": "CANDY",
+  "description": "La encontre fuera del metro Popotla durante una tormenta, estaba herida y asustada, tiene un lindo color con motas marrones.",
+  "gender": "hembra",
+  "age": {
+    "number": 16,
+    "type": "meses"
+  },
+  "size": "xs",
+  "energy": 4,
+  "contacto": "5523452865",
+  "ubicacion": "https://www.google.com.mx/maps/place/Popotla/@19.4560483,-99.1799859,16z/data=!4m5!3m4!1s0x85d1f89b182af359:0xd655fe13977c9ba2!8m2!3d19.45291!4d-99.17549",
+  "pictures": [
+    "https://th.bing.com/th/id/OIP.IOOd4FPov4lantBx3LFFNAHaE6?pid=ImgDet&rs=1",
+    "https://th.bing.com/th/id/OIP.AT00XIf2iqgYGsVvqW6OuwAAAA?pid=ImgDet&w=450&h=390&rs=1"
+  ],
+  "location": {
+    "city": "Miguel Hidalgo",
+    "state": "CDMX"
+  },
+  "requests": [],
+  "others": {
+    "vaccinated": false,
+    "special": true,
+    "sterilized": false
+  }
+},
+{
+  "name": "PIXIE",
+  "description": "Fue abandonada fuera de una casa con no mas de 1 mes de nacida, aunque quiero no puedo tenerla por mas tiempo en mi departamento",
+  "gender": "hembra",
+  "age": {
+    "number": 3,
+    "type": "meses"
+  },
+  "size": "xs",
+  "energy": 4,
+  "contacto": "5523476262",
+  "ubicacion": "https://www.google.com.mx/maps/place/Pante%C3%B3n+Zacatenco/@19.5044396,-99.1234679,16z/data=!4m13!1m7!3m6!1s0x85ce002e11342fc3:0x9a2667d831d4e080!2sCoyoac%C3%A1n,+Ciudad+de+M%C3%A9xico,+CDMX!3b1!8m2!3d19.3437444!4d-99.1561883!3m4!1s0x85d1f9ead7a66dbf:0xe5feaee2456f3ee7!8m2!3d19.5053738!4d-99.1208673",
+  "pictures": [
+    "https://www.santalucia.es/blog/wp-content/uploads/2017/12/perros-potencialmetne-peligrosos.jpg",
+    "https://i.pinimg.com/originals/8a/3e/3c/8a3e3c33c723d5b24933b7fd35bb54e4.jpg"
+  ],
+  "location": {
+    "city": "Gustavo A Madero",
+    "state": "CDMX"
+  },
+  "requests": [],
+  "others": {
+    "vaccinated": false,
+    "special": true,
+    "sterilized": false
+  }
+},
+{
+  "name": "TITO",
+  "description": "Mi mascota acaba de tener una camada, y logre dar en adopcion a la mayoria, sin embargo todavia tengo un cachorro, tiene apenas 1 mes.",
+  "gender": "macho",
+  "age": {
+    "number": 1,
+    "type": "meses"
+  },
+  "size": "xs",
+  "energy": 4,
+  "contacto": "5533436735",
+  "ubicacion": "https://www.google.com.mx/maps/place/Centro+Cultural+Cuajimalpa/@19.3593916,-99.3014557,17z/data=!4m13!1m7!3m6!1s0x85d2073933f9205d:0xa25b0bf474536752!2sCuajimalpa,+Ciudad+de+M%C3%A9xico,+CDMX!3b1!8m2!3d19.3557507!4d-99.2993504!3m4!1s0x85d2073e4f5ad2b5:0xae4b5b40f14ba9cb!8m2!3d19.3581295!4d-99.2990341",
+  "pictures": [
+    "https://img.minutoneuquen.com/u/fotografias/fotosnoticias/2020/10/7/391550.jpg",
+    "https://th.bing.com/th/id/OIP.iqyUTOLL_pKMcQBKnzNfMwHaE7?pid=ImgDet&w=800&h=533&rs=1"
+  ],
+  "location": {
+    "city": "Cuajimalpa",
+    "state": "CDMX"
+  },
+  "requests": [],
+  "others": {
+    "vaccinated": false,
+    "special": true,
+    "sterilized": false
+  }
+},
+{
+  "name": "GUARDIAN",
+  "description": "Este perro salvo mi vida mientras escalaba el Cerro de la Estrella, sin duda es muy leal, fuerte y apegado a las personas, pero yo no puedo ser su dueño.",
+  "gender": "macho",
+  "age": {
+    "number": 6,
+    "type": "años"
+  },
+  "size": "xs",
+  "energy": 4,
+  "contacto": "5723456755",
+  "ubicacion": "https://www.google.com.mx/maps/place/Cerro+de+la+Estrella/@19.3438884,-99.0987548,15z/data=!4m13!1m7!3m6!1s0x85d1fdf7814cc1a1:0x25ec69380d32941!2sCerro+de+la+Estrella!3b1!8m2!3d19.3438889!4d-99.09!3m4!1s0x85d1fdf7814cc1a1:0x25ec69380d32941!8m2!3d19.3438889!4d-99.09",
+  "pictures": [
+    "https://img.bekiamascotas.com/articulos/23000/23380/4-t0.jpg",
+    "https://www.k9web.com/wp-content/uploads/2019/03/German-Shepherd-Lab-Mix-German-Shepherd.jpg"
+  ],
+  "location": {
+    "city": "Iztapalapa",
+    "state": "CDMX"
+  },
+  "requests": [],
+  "others": {
+    "vaccinated": false,
+    "special": true,
+    "sterilized": false
+  }
+},
+{
+  "name": "XOLO",
+  "description": "Decidi llamarlo Xolo en la calle, el me siguio hasta mi casa, pude darle techo durante unos meses, sin embargo estoy apunto de mudarme y no lo podre llevar conmigo.",
+  "gender": "macho",
+  "age": {
+    "number": 5,
+    "type": "años"
+  },
+  "size": "xs",
+  "energy": 4,
+  "contacto": "5224456765",
+  "ubicacion": "https://www.google.com.mx/maps/place/Ciudad+Deportiva/@19.4042265,-99.0953004,16z/data=!4m13!1m7!3m6!1s0x85d1fc27cc22b149:0x83a6a1f80e7f25b4!2sIztacalco,+Ciudad+de+M%C3%A9xico,+CDMX!3b1!8m2!3d19.3948036!4d-99.0976808!3m4!1s0x85d1fc233c85c979:0x2d4c5a36f8748f08!8m2!3d19.4084279!4d-99.0912781",
+  "pictures": [
+    "https://img.dog-learn.com/dog-breeds/xoloitzcuintle/xoloitzcuintle-i2-sz3.jpg",
+    "https://th.bing.com/th/id/OIP.Mb60d1j3ltD1T-I6ojZKfwAAAA?pid=ImgDet&w=378&h=317&rs=1"
+  ],
+  "location": {
+    "city": "Iztacalco",
+    "state": "CDMX"
+  },
+  "requests": [],
+  "others": {
+    "vaccinated": false,
+    "special": true,
+    "sterilized": false
+  }
+},
+{
+  "name": "WINONA",
+  "description": "Es la tercera generacion de perros en mi familia que cuida a mi ganado, sin embargo voy a desocuparme de esas tierras y no tengo tiempo para cuidarla devidamente.",
+  "gender": "hembra",
+  "age": {
+    "number": 7,
+    "type": "años"
+  },
+  "size": "xs",
+  "energy": 4,
+  "contacto": "5523057721",
+  "ubicacion": "https://www.google.com.mx/maps/place/Tlaxco,+Tlax./@19.6242858,-98.1430777,14z/data=!4m5!3m4!1s0x85d017ce02b008e9:0x4a86f3ef164be249!8m2!3d19.61766!4d-98.1174721",
+  "pictures": [
+    "https://th.bing.com/th/id/OIP.RNS3CsWeZx8IzF_jkZ13dgHaG4?pid=ImgDet&rs=1",
+    "https://paslaugos-img.dgn.lt/gallery_10_2141141/sunu-kirpykla-seskineje-au130-galerija.jpg"
+  ],
+  "location": {
+    "city": "Tlaxco",
+    "state": "Tlaxcala"
+  },
+  "requests": [],
+  "others": {
+    "vaccinated": false,
+    "special": true,
+    "sterilized": false
+  }
+},
+{
+  "name": "FITO",
+  "description": "Desde hace unos meses e visto este perro fuera del ESIME Azcaptozalco, un restaurante local lo alimenta, pero creo que podria tener una mejor vida.",
+  "gender": "macho",
+  "age": {
+    "number": 3,
+    "type": "años"
+  },
+  "size": "xs",
+  "energy": 4,
+  "contacto": "5523456937",
+  "ubicacion": "https://www.google.com.mx/maps/place/ESIME+-+Escuela+Superior+de+Ingenier%C3%ADa+Mec%C3%A1nica+y+El%C3%A9ctrica+Unidad+Azcapotzalco+IPN/@19.4904785,-99.1763754,17z/data=!3m1!4b1!4m5!3m4!1s0x85d1f8659334149f:0x562ae0f2bcf140b2!8m2!3d19.4904785!4d-99.1741867",
+  "pictures": [
+    "https://www.losanimales.org/wp-content/uploads/2018/03/Chihuahua.jpg",
+    "https://th.bing.com/th/id/OIP.Hu7scI-xdxxP5MNlpPdSVQHaE5?pid=ImgDet&w=680&h=450&rs=1"
+  ],
+  "location": {
+    "city": "Azcapotzalco",
+    "state": "CDMX"
+  },
+  "requests": [],
+  "others": {
+    "vaccinated": false,
+    "special": true,
+    "sterilized": false
+  }
+},
+{
+  "name": "XICO",
+  "description": "Este pequeño amigo lo encontre desorientado y asustado caminando por las calles de mi barrio, espero alguien aqui le pueda conseguir un hogar.",
+  "gender": "macho",
+  "age": {
+    "number": 11,
+    "type": "meses"
+  },
+  "size": "xs",
+  "energy": 4,
+  "contacto": "5765456765",
+  "ubicacion": "https://www.google.com.mx/maps/place/Parque+Xicotencatl/@19.2954004,-98.9777756,13z/data=!4m13!1m7!3m6!1s0x85ce1c35d3823fef:0x916c335f4deff60e!2sValle+de+Chalco+Solidaridad,+M%C3%A9x.!3b1!8m2!3d19.2924017!4d-98.9403667!3m4!1s0x85ce1c0bf15d705f:0xd33d25d80f53dbe7!8m2!3d19.2587413!4d-98.9424741",
+  "pictures": [
+    "https://demascotas.info/wp-content/uploads/2018/09/terrier-3.jpg",
+    "https://th.bing.com/th/id/R.b1a3d2d86b9045288291e5bff7c73bb6?rik=hhf%2bqwfd3zfLGw&riu=http%3a%2f%2fwww.rescue-forum.com%2ffichiers%2fadoption-chien-17%2fmale-parson-russell-terrier-placer-dsc_0083.jpg-387365d1517594067t&ehk=gUMJSNXZsFejHR%2f4SFMAVgpm8e6oU2YShqQBqerKa%2bM%3d&risl=&pid=ImgRaw&r=0"
+  ],
+  "location": {
+    "city": "Valle de Chalco",
+    "state": "Edo Mex"
+  },
+  "requests": [],
+  "others": {
+    "vaccinated": false,
+    "special": true,
+    "sterilized": false
+  }
+},
+{
+  "name": "YAMATO",
+  "description": "Uno de mis hermanos decidio recojerlo cerca la Facultad de Artes y Diseño, es muy pequeño y de pelaje muy suave.",
+  "gender": "macho",
+  "age": {
+    "number": 1,
+    "type": "año"
+  },
+  "size": "xs",
+  "energy": 4,
+  "contacto": "2973456765",
+  "ubicacion": "https://www.google.com.mx/maps/place/Facultad+de+Artes+y+Dise%C3%B1o+UNAM/@19.2523281,-99.1205076,17z/data=!3m1!4b1!4m5!3m4!1s0x85ce0141a1953ae5:0x4af0efb6e26404f!8m2!3d19.2523281!4d-99.1183189",
+  "pictures": [
+    "https://th.bing.com/th/id/OIP.7K4kLvz1mGHz_mI2fENtswHaE7?pid=ImgDet&w=1600&h=1064&rs=1",
+    "https://th.bing.com/th/id/OIP.WMJSkEXd5PGLokFNhgKmMQHaFR?pid=ImgDet&w=450&h=320&rs=1"
+  ],
+  "location": {
+    "city": "Xochimilco",
+    "state": "CDMX"
+  },
+  "requests": [],
+  "others": {
+    "vaccinated": false,
+    "special": true,
+    "sterilized": false
+  }
+}]

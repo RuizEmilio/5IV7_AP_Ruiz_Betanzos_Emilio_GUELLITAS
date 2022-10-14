@@ -1,0 +1,17 @@
+.tablaPerro{
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill , 350px);
+    gap: 50px;
+    padding: 40px;
+    justify-content: center;
+
+}
+
+.imagenPrincipal{
+
+    width: 100px;
+    height: 100px;
+    background: none;
+
+}

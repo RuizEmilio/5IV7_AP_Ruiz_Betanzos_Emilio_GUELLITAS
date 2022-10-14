@@ -1,0 +1,22 @@
+.tresPerros{
+
+    list-style: none;
+    font-size: 1.5rem;
+    transition: .5s;
+    
+}
+
+.perroImagen{
+
+    border-radius: 10px;
+    background-color: aquamarine;
+    width: 250px;
+    height: 300px;
+
+}
+
+.tresPerros:hover{
+
+    transform: scale(1.2);
+    
+}
