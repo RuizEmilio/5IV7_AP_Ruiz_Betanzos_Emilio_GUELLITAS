@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/5IV7_AP_Ruiz_Betanzos_Emilio_GUELLITAS/static/css/main.135a8ac2.css",
+    "main.js": "/5IV7_AP_Ruiz_Betanzos_Emilio_GUELLITAS/static/js/main.535033c6.js",
+    "index.html": "/5IV7_AP_Ruiz_Betanzos_Emilio_GUELLITAS/index.html",
+    "main.135a8ac2.css.map": "/5IV7_AP_Ruiz_Betanzos_Emilio_GUELLITAS/static/css/main.135a8ac2.css.map",
+    "main.535033c6.js.map": "/5IV7_AP_Ruiz_Betanzos_Emilio_GUELLITAS/static/js/main.535033c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.135a8ac2.css",
+    "static/js/main.535033c6.js"
+  ]
+}
